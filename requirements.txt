@@ -2,5 +2,9 @@ streamlit
 tensorflow
 matplotlib
 numpy
+opencv-python
+keras
+pillow
+scikit-learn
 
 
